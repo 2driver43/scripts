@@ -14,3 +14,7 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Tidied up project structure
 - Improved error handling in edge cases
+
+## 2026-03-23
+- Added basic retry logic for network requests
+- Resolved TODO items from previous session
