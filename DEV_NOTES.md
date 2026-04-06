@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Added basic retry logic for network requests
 - Resolved TODO items from previous session
+
+## 2026-04-06
+- Checked for memory leaks in long-running path
+- Tested build on clean environment
+- Added healthcheck endpoint stub
